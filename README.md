@@ -7,15 +7,18 @@ I will use Sequelize Many-to-Many Association
 ## API Endpoint
 
 ### GET
-
 localhost:5000/books
+
 localhost:5000/books/:id
+
 localhost:5000/store
+
 localhost:5000/inventory/:id
 
 ### POST
 
 localhost:5000/books
+
 localhost:5000/store/addbook
 
 ### PATCH
