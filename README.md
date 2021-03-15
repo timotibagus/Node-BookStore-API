@@ -13,15 +13,15 @@ localhost:5000/books/:id
 localhost:5000/store
 localhost:5000/inventory/:id
 
-## POST
+### POST
 
 localhost:5000/books
 localhost:5000/store/addbook
 
-## Patch
+### PATCH
 
 localhost:5000/books/:id
 
-# Delete
+### DELETE
 
 localhost:5000/books/:id
